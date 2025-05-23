@@ -141,14 +141,4 @@ for (int mask = 0; mask < (1 << n); ++mask) {
 
 ---
 
-## 🧪 Practice Problems
 
-* Leetcode 136: Single Number
-* Leetcode 231: Power of Two
-* Leetcode 191: Number of 1 Bits
-* Leetcode 78: Subsets (via bitmasking)
-* Leetcode 137: Single Number II (Advanced)
-
----
-
-Let me know if you'd like this in a downloadable `.md` file or want to generate example problems for practice.
