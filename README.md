@@ -1,6 +1,4 @@
-Here’s a comprehensive **theory explanation about Bit Manipulation**, suitable for notes, interviews, or a README file:
 
----
 
 # 🧠 Bit Manipulation: Theory Guide
 
